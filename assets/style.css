@@ -243,7 +243,7 @@ body {
 @media (max-width: 768px) {
     .logo {
       position: absolute;
-      left: 10%; }
+      left: 5%; }
 
     .navbar {
         flex-direction: column;
@@ -274,10 +274,11 @@ body {
 
     .cssbuttons-io-button {
       position: absolute;
-        right: 10%;
+        right: 5%;
         font-size: 15px;
         height: 2.5em;
         padding-left: 1em;
         padding-right: 3em; } }
+
 
 
