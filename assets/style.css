@@ -1,15 +1,15 @@
 @font-face {
     font-family: MontserratAlternates-Regular;
-    src: url("/superbot-cogs/template/assets/font/MontserratAlternates-Regular.ttf"); }
+    src: url("/assets/font/MontserratAlternates-Regular.ttf"); }
 @font-face {
     font-family: MontserratAlternates-SemiBoldItalic;
-    src: url("/superbot-cogs/template/assets/font/MontserratAlternates-SemiBoldItalic.ttf"); }
+    src: url("/assets/font/MontserratAlternates-SemiBoldItalic.ttf"); }
 @font-face {
     font-family: Montserrat-Italic-VariableFont_wght;
-    src: url("/superbot-cogs/template/assets/font/Montserrat-Italic-VariableFont_wght.ttf"); }
+    src: url("/template/assets/font/Montserrat-Italic-VariableFont_wght.ttf"); }
 @font-face {
     font-family: MontserratAlternates-LightItalic;
-    src: url("/superbot-cogs/template/assets/font/MontserratAlternates-LightItalic.ttf"); }
+    src: url("/assets/font/MontserratAlternates-LightItalic.ttf"); }
 
 * {
   margin: 0;
@@ -279,4 +279,5 @@ body {
         height: 2.5em;
         padding-left: 1em;
         padding-right: 3em; } }
+
 
